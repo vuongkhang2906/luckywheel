@@ -1,0 +1,22 @@
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+D:\Documents\Downloads\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Form1.resources
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.SuggestedBindingRedirects.cache
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Form1.resources
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
