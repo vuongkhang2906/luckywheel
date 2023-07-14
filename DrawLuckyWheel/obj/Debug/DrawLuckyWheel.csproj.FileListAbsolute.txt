@@ -20,3 +20,14 @@ C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\De
 C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
 C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
 C:\Users\vuong khang\Desktop\DrawLuckyWheel\DrawLuckyWheel\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.exe
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.pdb
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe.config
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.exe
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\bin\Debug\DrawLuckyWheel.pdb
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.AssemblyReference.cache
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.SuggestedBindingRedirects.cache
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Form1.resources
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.Properties.Resources.resources
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.GenerateResource.cache
+D:\School\kyThuatLaprinhNangCao\code\New folder\DrawLuckyWheel\obj\Debug\DrawLuckyWheel.csproj.CoreCompileInputs.cache
